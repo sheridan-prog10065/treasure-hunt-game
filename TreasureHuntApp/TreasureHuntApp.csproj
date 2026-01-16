@@ -15,6 +15,9 @@
         <!-- Display name -->
         <ApplicationTitle>TreasureHuntGame</ApplicationTitle>
 
+        <!-- Assembly name -->
+        <AssemblyName>TreasureHuntGame</AssemblyName>
+        
         <!-- App Identifier -->
         <ApplicationId>com.companyname.treasurehuntgame</ApplicationId>
         <ApplicationIdGuid>22dff853-0511-464a-9660-826218605a2a</ApplicationIdGuid>

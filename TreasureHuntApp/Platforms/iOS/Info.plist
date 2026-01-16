@@ -28,5 +28,9 @@
 	</array>
 	<key>XSAppIconAssets</key>
 	<string>Assets.xcassets/appicon.appiconset</string>
+	<key>CFBundleDisplayName</key>
+	<string>Treasure Hunt Game</string>
+	<key>CFBundleName</key>
+	<string>Treasure Hunt Game</string>
 </dict>
 </plist>
