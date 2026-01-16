@@ -1,5 +1,3 @@
 <Solution>
-  <Project Path="TreasureHuntApp.csproj">
-    <Deploy />
-  </Project>
+  <Project Path="TreasureHuntApp/TreasureHuntApp.csproj" />
 </Solution>
